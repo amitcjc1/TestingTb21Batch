@@ -24,6 +24,14 @@ public class A
 		
 	}
 
+	
+	public void m4()
+	{
+		System.out.println("M3==A");
+		System.out.println("M3==A===2");
+		
+	}
+
 
 	public static void main(String[] args) {
 		
